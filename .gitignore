@@ -1,0 +1,5 @@
+*.zip
+*.JPG
+*.h5
+/PlantVillage
+**/split data/

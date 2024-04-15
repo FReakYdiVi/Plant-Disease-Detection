@@ -19,7 +19,7 @@ ResNet-50 is a deeper convolutional neural network architecture that addresses t
 
 # Results
 - The VGG-16 model achieved a highest accuracy of 99.3% on the validation set layers.
-- The ResNet-50 model achieved a highest accuracy of 85.2% on the validation set.
+- The ResNet-50 model achieved a highest accuracy of 76.2% on the validation set.
 
 #### References 
 
